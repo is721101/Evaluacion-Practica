@@ -9,7 +9,7 @@ El presente ejercicio busca realizar la instalación del ambiente para el desarr
 [![image.png](https://i.postimg.cc/gJsFzYjv/image.png)](https://postimg.cc/WFdfScM3)
 
 - Instalar GIT y GIT Bash:
-[![image.png](https://i.postimg.cc/5yzrHbN7/image.png)](https://postimg.cc/BPqpkWFH)
+- [![image.png](https://i.postimg.cc/5yzrHbN7/image.png)](https://postimg.cc/BPqpkWFH)
 
 
 ## EJERCICIO 2
